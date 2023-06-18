@@ -1,7 +1,7 @@
 +++
 title = "«Werden wir die Mittagszeit überstehen?», Coop"
 date = "2023-06-18"
-draft = true
+draft = false
 pinned = false
 +++
 {{<lead>}} Die Mittagszeit ist für das Coop nicht nur der Höhepunkt an Klientel, sondern auch an Diebstahl. {{</lead>}}
